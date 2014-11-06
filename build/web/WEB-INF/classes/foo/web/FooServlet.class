@@ -1,0 +1,16 @@
+\CA\FE\BA\BE\00\00\003\00L
+\00\00'\00(\00)\00*\00)\00+\00,
+\00-\00.\00/
+\00\00'\000
+\00\001	\00\002\003\004\005\006
+\00\007\008
+\00\009\00:\00;\00foo\00Lfoo/ejb/FooRemote;\00RuntimeVisibleAnnotations\00Ljavax/ejb/EJB;\00
+mappedName\00FooBean/remote\00<init>\00()V\00Code\00LineNumberTable\00processRequest\00R(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V\00
+Exceptions\00<\00=\00doGet\00doPost\00
+SourceFile\00FooServlet.java\00\00\00text/html;charset=UTF-8\00>\00?\00@\00A\00B\00:<html><head><title>Servlet FooServlet</title></head><body>\00C\00D\00@\00java/lang/StringBuilder\00<h>FooRemote.echo returned:\00E\00F\00\00\00From FooServlet\00G\00H\00I\00</h>\00J\00K\00</body></html>\00\00\00foo/web/FooServlet\00javax/servlet/http/HttpServlet\00java/io/IOException\00javax/servlet/ServletException\00&javax/servlet/http/HttpServletResponse\00setContentType\00(Ljava/lang/String;)V\00	getWriter\00()Ljava/io/PrintWriter;\00java/io/PrintWriter\00println\00append\00-(Ljava/lang/String;)Ljava/lang/StringBuilder;\00foo/ejb/FooRemote\00echo\00&(Ljava/lang/String;)Ljava/lang/String;\00toString\00()Ljava/lang/String;\00!\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00s\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00*\B7\00\B1\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00n\00\00\00\00\00B,\B9\00\00,\B9\00\00N-\B6\00-\BB\00Y\B7\00	\B6\00
+*\B4\00\B9\00
+\00\B6\00
+\B6\00
+\B6\00\B6\00-\B6\00\B1\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00;\00\00A\00\00 \00\00\00\00\00!\00"\00\00#\00\00\00\00\00\00#\00\00\00\00\00*+,\B6\00\B1\00\00\00\00\00\00\00
+\00\00\00\00"\00\00#\00 \00\00\00\00\00!\00"\00\00$\00\00\00\00\00\00#\00\00\00\00\00*+,\B6\00\B1\00\00\00\00\00\00\00
+\00\00\00\00&\00\00'\00 \00\00\00\00\00!\00"\00\00%\00\00\00\00&
